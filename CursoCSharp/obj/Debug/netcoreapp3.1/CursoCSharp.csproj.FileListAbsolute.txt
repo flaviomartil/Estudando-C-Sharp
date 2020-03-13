@@ -9,3 +9,14 @@ C:\Users\Flavio e andressa\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcor
 C:\Users\Flavio e andressa\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfo.cs
 C:\Users\Flavio e andressa\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.dll
 C:\Users\Flavio e andressa\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.pdb
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.exe
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.deps.json
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.json
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.dev.json
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.dll
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.pdb
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csprojAssemblyReference.cache
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfo.cs
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.dll
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.pdb
