@@ -9,5 +9,6 @@
 
 #Custom
 .vscode/
+.vs/
 
 php_errors.log
