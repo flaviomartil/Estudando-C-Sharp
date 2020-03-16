@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.Fundamentos {
     class OperadoresRelacionais {
-        public static void Executar() {
+        public static void Executar() { 
             Console.Write("Digite a sua nota: ");
             double.TryParse(Console.ReadLine(), out double nota);
             double notaDeCorte = 7.0;
