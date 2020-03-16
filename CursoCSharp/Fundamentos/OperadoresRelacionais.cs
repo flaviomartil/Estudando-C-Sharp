@@ -10,6 +10,7 @@ namespace CursoCSharp.Fundamentos {
             double notaDeCorte = 7.0;
 
             Console.WriteLine("Nota invalida? {0}", nota > 10.0);
+            Console.WriteLine("Nota invalida? {0}", nota > 10.0);
             Console.WriteLine("Nota invalida? {0}", nota < 0.0);
             Console.WriteLine("Perfeito? {0}", nota == 10.0);
             Console.WriteLine("Tem como melhorar? {0}", nota != 10.0);
