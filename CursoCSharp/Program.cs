@@ -29,6 +29,7 @@ namespace CursoCSharp {
                 {"Estrutura IF / ELSE / ELSEIF   - Estruturas de controle", EstruturaIfElseIf.Executar},
                 {"Estrutura Switch  - Estruturas de controle", EstruturaSwitch.Executar},
                 {"Estrutura While  - Estruturas de controle", EstruturaWhile.Executar},
+                {"Estrutura DoWhile  - Estruturas de controle", EstruturaDoWhile.Executar},
             });
 
             central.SelecionarEExecutar();
