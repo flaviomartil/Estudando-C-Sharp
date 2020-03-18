@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Flavio e andressa\\Source\\Repos\\Estudando-C-Sharp\\CursoCSharp\\CursoCSharp.csproj": {}
+    "C:\\Users\\Flavio e andressa\\source\\repos\\Estudando-C-Sharp\\CursoCSharp\\CursoCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Flavio e andressa\\Source\\Repos\\Estudando-C-Sharp\\CursoCSharp\\CursoCSharp.csproj": {
+    "C:\\Users\\Flavio e andressa\\source\\repos\\Estudando-C-Sharp\\CursoCSharp\\CursoCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Flavio e andressa\\Source\\Repos\\Estudando-C-Sharp\\CursoCSharp\\CursoCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\Flavio e andressa\\source\\repos\\Estudando-C-Sharp\\CursoCSharp\\CursoCSharp.csproj",
         "projectName": "CursoCSharp",
-        "projectPath": "C:\\Users\\Flavio e andressa\\Source\\Repos\\Estudando-C-Sharp\\CursoCSharp\\CursoCSharp.csproj",
+        "projectPath": "C:\\Users\\Flavio e andressa\\source\\repos\\Estudando-C-Sharp\\CursoCSharp\\CursoCSharp.csproj",
         "packagesPath": "C:\\Users\\Flavio e andressa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Flavio e andressa\\Source\\Repos\\Estudando-C-Sharp\\CursoCSharp\\obj\\",
+        "outputPath": "C:\\Users\\Flavio e andressa\\source\\repos\\Estudando-C-Sharp\\CursoCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Flavio e andressa\\AppData\\Roaming\\NuGet\\NuGet.Config",
