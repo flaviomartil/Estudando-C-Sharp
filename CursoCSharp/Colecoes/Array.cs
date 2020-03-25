@@ -30,7 +30,7 @@ namespace CursoCSharp.Colecoes {
 
             //for(int i = 0; i<notas.Length; i++) {
             //    somatorio += notas[i];
-            }
+            //}
         }
     }
 }
