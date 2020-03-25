@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.Fundamentos;
 using CursoCSharp.ClassesEMetodos;
+using CursoCSharp.Colecoes;
 
 namespace CursoCSharp {
     class Program {
@@ -53,6 +54,9 @@ namespace CursoCSharp {
                 {"Valor Vs Referencia  - Classes e métodos", ValorVsReferencia.Executar},
                 {"Parametros Por Referencia  - Classes e métodos", ParametrosPorReferencia.Executar},
                 {"Parametros Com Valor Padrão  - Classes e métodos", ParametroPadrao.Executar},
+               
+                // Coleções
+                {"Array - Coleções", Colecoes.Array.Executar},
             });
 
             central.SelecionarEExecutar();
