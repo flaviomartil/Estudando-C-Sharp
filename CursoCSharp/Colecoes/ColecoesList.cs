@@ -17,6 +17,7 @@ namespace CursoCSharp.Colecoes {
             var livro = new Produto("Game of thrones",49.9);
             var carrinho = new List<Produto>();
             carrinho.Add(livro);
+           
 
             var combo = new List<Produto> {
                 new Produto("Camisa",29.90),
