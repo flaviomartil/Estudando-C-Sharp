@@ -28,7 +28,7 @@ namespace CursoCSharp.Colecoes {
                 Console.WriteLine($" Nome {item.Nome} Preço: {item.Preco}" );
 
             }
-            Console.WriteLine(carrinho.Count);
+            Console.WriteLine(carrinho.Count);/
             carrinho.Add(livro);
             Console.WriteLine(carrinho.Count);
 
