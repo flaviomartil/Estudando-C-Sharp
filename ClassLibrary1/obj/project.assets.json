@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "Encapsulamento/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/Encapsulamento.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Encapsulamento.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "Encapsulamento/1.0.0": {
-      "type": "project",
-      "path": "../Encapsulamento/Encapsulamento.csproj",
-      "msbuildProject": "../Encapsulamento/Encapsulamento.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "Encapsulamento >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\Flavio e andressa\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Flavio e andressa\\source\\repos\\Estudando-C-Sharp\\CursoCSharp\\CursoCSharp.csproj",
-      "projectName": "CursoCSharp",
-      "projectPath": "C:\\Users\\Flavio e andressa\\source\\repos\\Estudando-C-Sharp\\CursoCSharp\\CursoCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\Flavio e andressa\\source\\repos\\Estudando-C-Sharp\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectName": "ClassLibrary1",
+      "projectPath": "C:\\Users\\Flavio e andressa\\source\\repos\\Estudando-C-Sharp\\ClassLibrary1\\ClassLibrary1.csproj",
       "packagesPath": "C:\\Users\\Flavio e andressa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Flavio e andressa\\source\\repos\\Estudando-C-Sharp\\CursoCSharp\\obj\\",
+      "outputPath": "C:\\Users\\Flavio e andressa\\source\\repos\\Estudando-C-Sharp\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Flavio e andressa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,11 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {
-            "C:\\Users\\Flavio e andressa\\source\\repos\\Estudando-C-Sharp\\Encapsulamento\\Encapsulamento.csproj": {
-              "projectPath": "C:\\Users\\Flavio e andressa\\source\\repos\\Estudando-C-Sharp\\Encapsulamento\\Encapsulamento.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

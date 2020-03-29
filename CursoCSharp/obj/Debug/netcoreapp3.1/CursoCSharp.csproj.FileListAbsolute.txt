@@ -20,3 +20,6 @@ C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\CursoCSharp\obj\Debug\
 C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfo.cs
 C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.dll
 C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.pdb
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\CursoCSharp\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\CursoCSharp\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csproj.CopyComplete

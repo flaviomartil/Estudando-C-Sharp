@@ -5,7 +5,6 @@ using CursoCSharp.Fundamentos;
 using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Colecoes;
 using CursoCSharp.OO;
-
 namespace CursoCSharp {
     class Program {
         static void Main(string[] args) {
@@ -69,6 +68,7 @@ namespace CursoCSharp {
             // OO
              {"Herança - Programação orientada a objetos", heranca.Executar},
              {"Construtor This - Programação orientada a objetos", ConstrutorThis.Executar},
+             {"Encapsulamento - Programação orientada a objetos", OO.Encapsulamento.Executar},
                 });
 
             central.SelecionarEExecutar();

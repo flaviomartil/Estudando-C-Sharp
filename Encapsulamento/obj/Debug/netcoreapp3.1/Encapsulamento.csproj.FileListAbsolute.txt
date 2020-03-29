@@ -1,0 +1,8 @@
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.deps.json
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfo.cs
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\Flavio e andressa\source\repos\Estudando-C-Sharp\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.pdb
