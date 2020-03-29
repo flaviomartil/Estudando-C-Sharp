@@ -68,6 +68,7 @@ namespace CursoCSharp {
           
             // OO
              {"Herança - Programação orientada a objetos", heranca.Executar},
+             {"Construtor This - Programação orientada a objetos", ConstrutorThis.Executar},
                 });
 
             central.SelecionarEExecutar();
