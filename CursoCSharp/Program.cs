@@ -70,6 +70,7 @@ namespace CursoCSharp {
              {"Construtor This - Programação orientada a objetos", ConstrutorThis.Executar},
              {"Encapsulamento - Programação orientada a objetos", OO.Encapsulamento.Executar},
              {"Polimorfismo - Programação orientada a objetos", Polimorfismo.Executar},
+             {"Abstract - Programação orientada a objetos", Abstract.Executar},
                 });
 
             central.SelecionarEExecutar();
